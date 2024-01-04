@@ -13,3 +13,5 @@
 [Writing a C Compiler](https://nostarch.com/writing-c-compiler) _not released_
 
 [Parser Combinator](https://tgdwyer.github.io/parsercombinators/)
+
+[A Theory of Object](https://www.amazon.com/Theory-Objects-Monographs-Computer-Science/dp/0387947752)
